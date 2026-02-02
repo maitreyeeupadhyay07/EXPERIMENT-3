@@ -1,9 +1,7 @@
 MAITREYEE UPADHYAY
 25070123071
 
-AIM : AIM
-
-To understand and demonstrate the use of **tuples in Python**, including creation, indexing, repetition, immutability, built-in functions, unpacking, and comparison with lists.
+AIM : To understand and demonstrate the use of **tuples in Python**, including creation, indexing, repetition, immutability, built-in functions, unpacking, and comparison with lists.
 
 * Creating tuples with different data types
 * Accessing tuple elements using indexing (positive & negative)
