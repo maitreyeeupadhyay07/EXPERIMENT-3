@@ -68,20 +68,31 @@ Mutability  | Mutable (can be changed)     | Immutable (cannot be changed) |
  Algorithm for Tuple Packing
 
 Step 1: Start the program
+
 Step 2: Declare multiple values separated by commas
+
 Step 3: Assign them to a single variable
+
 Step 4: Python automatically packs the values into a tuple
+
 Step 5: Display the packed tuple
+
 Step 6: Stop
 
  Algorithm for Tuple Unpacking
 
 Step 1: Start the program
+
 Step 2: Create a tuple with multiple elements
+
 Step 3: Declare the same number of variables as tuple elements
+
 Step 4:Assign the tuple to these variables
+
 Step 5: Python unpacks tuple elements into variables
+
 Step 6: Display the unpacked values
+
 Step 7: Stop
 
 
